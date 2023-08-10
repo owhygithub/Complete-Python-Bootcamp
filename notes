@@ -1,0 +1,40 @@
+# Python Bootcamp - UDEMY COURSE
+
+# Structure:
+1. object and data structure basics
+2. Comparison Operators
+3. Python Statements
+4. Methods and Functions
+5. First Milestone Project - Game
+6. Object-Oriented Programming
+7. Errors and Exception Handling
+8. Second Milestone Project - Complex Game
+9. Modules and Packages
+10. Built-in Functions
+11. Decorators in Python
+12. Python Generators
+13. Final Capstone Project
+14. Advanced Python
+
+# Python
+- Readability and ease-of-use
+- Clear logical code
+- Optimizing developer's time, not computer's time
+- Automating simple tasks
+- Data science and Machine Learning
+- Create websites - Django and Flask
+
+# Terminal
+pwd = current directory path
+ls = list of files and folders
+cd = go in
+cd .. = go back
+clear = clear screen
+
+# Text Editos / Full IDEs (development environments) / Notebook Environments
+Sublime/Atom VS PyCharm/Spyder VS JupyterNotebook
+
+# Data Types & Structures
+Data Types: integer, float, strings
+Data structures: list, dictionary, sets (unordered+unique), tuples (immutable+ordered), booleans
+
